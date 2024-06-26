@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "prettier": "^3.3.2",
+    "typescript": "^5.5.2",
     "vulcan-api-js": "^3.5.4"
   },
   "devDependencies": {
+    "@types/node": "^20.14.9",
     "eslint": "^9.5.0"
   }
 }
